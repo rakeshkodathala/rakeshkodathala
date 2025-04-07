@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/rakeshkodathala?label=GitHub&style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:rakesh@example.com">
-    <img src="https://img.shields.io/badge/Email-rakesh@example.com-blue?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-rakeshkodathala@gmail.com-blue?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
