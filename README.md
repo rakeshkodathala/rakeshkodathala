@@ -3,7 +3,7 @@
 ### Hi there, I am Rakesh Kumar 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-rakeshkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakesh-kumar-reddy-kodathala-107740199/)](https://www.linkedin.com/in/rakesh-kumar-reddy-kodathala-107740199/)
-[![Gmail Badge](https://img.shields.io/badge/-rakeshkodathala@mail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakesh@example.com)](mailto:rakeshkodathala@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rakeshkodathala@mail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakesh@example.com)](mailto:kodathalarakesh@gmail.com)
 
 - 🎓 Graduate Student at **University of Missouri–Kansas City**
 - 💼 Ex Software Engineer @ **Mindtree**
