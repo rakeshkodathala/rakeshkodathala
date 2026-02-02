@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rakeshkodathala@mail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakesh@example.com)](mailto:kodathalarakesh@gmail.com)
 
 - 🎓 Graduate Student at **University of Missouri–Kansas City**
-- 💼 Ex Software Engineer @ **Mindtree**
+- 💼 Software Developer @ **Amazon**
 - 🚀 Portfolio Website: [rakesh-portfolio.vercel.app](https://rakesh-portfolio-iota.vercel.app)
 - ⚡ Fun fact: If it’s working... don’t touch it 😅
 
